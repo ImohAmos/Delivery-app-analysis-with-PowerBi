@@ -1,4 +1,4 @@
-# Delivery-app-analysis-with-PowerBi
+# Delivery-app-analysis-with-SQL
 This is an analysis of orders from a delivery company's sale's data using SQL.
 ![](7.jpg)
 ---
